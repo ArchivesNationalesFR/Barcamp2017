@@ -33,7 +33,7 @@ La dématérialisation des inventaires n’a pas supprimé leur hétérogénéit
 * la qualité orthographique (la rétroconversion a porté aussi sur des inventaires manuscrits qui ont été saisis manuellement) ;
 * etc.
 
-** Nous avons choisi de présenter dans le barcamp les inventaires tels qu’ils sont, même si de notre point de vue certains ne semblent pas facilement exploitables. **
+**Nous avons choisi de présenter dans le barcamp les inventaires tels qu’ils sont, même si de notre point de vue certains ne semblent pas facilement exploitables.**
 
 ## Enjeux du barcamp
 
