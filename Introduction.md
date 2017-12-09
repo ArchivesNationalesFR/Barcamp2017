@@ -9,7 +9,7 @@ Barcamp des Archives nationales - Samedi 9 décembre 2017
 
 Les jeux de données présentés pour le barcamp sont de quatre natures :
 
-* **Inventaires** (ou métadonnées de description) : la plupart des documents originaux conservés aux Archives nationales sont sur support papier. Ils sont décrits par des inventaires, qui aujourd’hui sont majoritairement édités sous forme de fichiers conformes au standard de description archivistique Encoded Archival Description XML-EAD. Il existe également des archives sur support photographique ou analogique audiovisuel.
+* **Inventaires** (ou métadonnées de description) : la plupart des documents originaux conservés aux Archives nationales sont sur support papier. Ils sont décrits par des inventaires, qui aujourd’hui sont majoritairement édités sous forme de fichiers conformes au standard de description archivistique Encoded Archival Description XML-EAD. Il existe également des archives sur support photographique ou analogique audiovisuel. Les données structurées nativement numériques sont également décrites par des métadonnées comportant la liste des variables, les dictionnaires de codes, de données et de structures.
 
 * **Images numérisées** des originaux papier : certains fonds d’archives ont fait l’objet de campagnes de numérisation afin d’être diffusables en ligne. Il s’agit de fichiers .jpg, liés aux descriptions présentes dans les fichiers XML-EAD.
 
